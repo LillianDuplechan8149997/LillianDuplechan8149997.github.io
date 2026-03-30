@@ -39,6 +39,11 @@ var circles = [5]
 
 
         // TODO 3 : Call the drawCircle() function
+        drawCircle(1)
+        drawCircle(2)
+        drawCircle(3)
+        drawCircle(4)
+        drawCircle(5)
 
 
 
