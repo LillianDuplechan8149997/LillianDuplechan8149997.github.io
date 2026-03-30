@@ -48,7 +48,21 @@ var circles = [5]
 
 
         // TODO 7 : Use a loop to create multiple circles
+drawCircle(6)
 
+drawCircle(7)
+
+drawCircle(8)
+
+drawCircle(9)
+
+drawCircle(10)
+
+ for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
+
+            drawCircle();
+
+        }
 
 
 
